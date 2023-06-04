@@ -1,0 +1,98 @@
+C:\Users\franc\OneDrive\Escritorio\PPAI_CU17_GrupoYaNoNosFaltan2\PPAI_CU17_GrupoYaNoNosFaltan2\bin\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.exe.config
+C:\Users\franc\OneDrive\Escritorio\PPAI_CU17_GrupoYaNoNosFaltan2\PPAI_CU17_GrupoYaNoNosFaltan2\bin\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.exe
+C:\Users\franc\OneDrive\Escritorio\PPAI_CU17_GrupoYaNoNosFaltan2\PPAI_CU17_GrupoYaNoNosFaltan2\bin\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.pdb
+C:\Users\franc\OneDrive\Escritorio\PPAI_CU17_GrupoYaNoNosFaltan2\PPAI_CU17_GrupoYaNoNosFaltan2\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Escritorio\PPAI_CU17_GrupoYaNoNosFaltan2\PPAI_CU17_GrupoYaNoNosFaltan2\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.csproj.SuggestedBindingRedirects.cache
+C:\Users\franc\OneDrive\Escritorio\PPAI_CU17_GrupoYaNoNosFaltan2\PPAI_CU17_GrupoYaNoNosFaltan2\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.Properties.Resources.resources
+C:\Users\franc\OneDrive\Escritorio\PPAI_CU17_GrupoYaNoNosFaltan2\PPAI_CU17_GrupoYaNoNosFaltan2\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.csproj.GenerateResource.cache
+C:\Users\franc\OneDrive\Escritorio\PPAI_CU17_GrupoYaNoNosFaltan2\PPAI_CU17_GrupoYaNoNosFaltan2\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Escritorio\PPAI_CU17_GrupoYaNoNosFaltan2\PPAI_CU17_GrupoYaNoNosFaltan2\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.exe
+C:\Users\franc\OneDrive\Escritorio\PPAI_CU17_GrupoYaNoNosFaltan2\PPAI_CU17_GrupoYaNoNosFaltan2\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.pdb
+C:\Users\Pato\Documents\ING EN SISTEMAS\2023\3K3\DSI\PPAI_CU17_GrupoYaNoNosFaltan2\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.csproj.AssemblyReference.cache
+C:\Users\Pato\Documents\ING EN SISTEMAS\2023\3K3\DSI\PPAI_CU17_GrupoYaNoNosFaltan2\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pato\Documents\ING EN SISTEMAS\2023\3K3\DSI\PPAI_CU17_GrupoYaNoNosFaltan2\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.NewFolder1.InterfazIVR.resources
+C:\Users\Pato\Documents\ING EN SISTEMAS\2023\3K3\DSI\PPAI_CU17_GrupoYaNoNosFaltan2\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.Properties.Resources.resources
+C:\Users\Pato\Documents\ING EN SISTEMAS\2023\3K3\DSI\PPAI_CU17_GrupoYaNoNosFaltan2\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.csproj.GenerateResource.cache
+C:\Users\Pato\Documents\ING EN SISTEMAS\2023\3K3\DSI\PPAI_CU17_GrupoYaNoNosFaltan2\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.csproj.CoreCompileInputs.cache
+C:\Users\Pato\Documents\ING EN SISTEMAS\2023\3K3\DSI\PPAI_CU17_GrupoYaNoNosFaltan2\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.exe
+C:\Users\Pato\Documents\ING EN SISTEMAS\2023\3K3\DSI\PPAI_CU17_GrupoYaNoNosFaltan2\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.pdb
+C:\Users\Pato\Documents\ING EN SISTEMAS\2023\3K3\DSI\PPAI_CU17_GrupoYaNoNosFaltan2\bin\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.exe.config
+C:\Users\Pato\Documents\ING EN SISTEMAS\2023\3K3\DSI\PPAI_CU17_GrupoYaNoNosFaltan2\bin\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.exe
+C:\Users\Pato\Documents\ING EN SISTEMAS\2023\3K3\DSI\PPAI_CU17_GrupoYaNoNosFaltan2\bin\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.pdb
+C:\Users\franc\OneDrive\Escritorio\PPAI_CU17_GrupoYaNoNosFaltan2\PPAI_CU17_GrupoYaNoNosFaltan2\PPAI\PPAI_CU17_GrupoYaNoNosFaltan2\bin\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.exe.config
+C:\Users\franc\OneDrive\Escritorio\PPAI_CU17_GrupoYaNoNosFaltan2\PPAI_CU17_GrupoYaNoNosFaltan2\PPAI\PPAI_CU17_GrupoYaNoNosFaltan2\bin\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.exe
+C:\Users\franc\OneDrive\Escritorio\PPAI_CU17_GrupoYaNoNosFaltan2\PPAI_CU17_GrupoYaNoNosFaltan2\PPAI\PPAI_CU17_GrupoYaNoNosFaltan2\bin\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.pdb
+C:\Users\franc\OneDrive\Escritorio\PPAI_CU17_GrupoYaNoNosFaltan2\PPAI_CU17_GrupoYaNoNosFaltan2\PPAI\PPAI_CU17_GrupoYaNoNosFaltan2\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Escritorio\PPAI_CU17_GrupoYaNoNosFaltan2\PPAI_CU17_GrupoYaNoNosFaltan2\PPAI\PPAI_CU17_GrupoYaNoNosFaltan2\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.csproj.SuggestedBindingRedirects.cache
+C:\Users\franc\OneDrive\Escritorio\PPAI_CU17_GrupoYaNoNosFaltan2\PPAI_CU17_GrupoYaNoNosFaltan2\PPAI\PPAI_CU17_GrupoYaNoNosFaltan2\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.NewFolder1.InterfazIVR.resources
+C:\Users\franc\OneDrive\Escritorio\PPAI_CU17_GrupoYaNoNosFaltan2\PPAI_CU17_GrupoYaNoNosFaltan2\PPAI\PPAI_CU17_GrupoYaNoNosFaltan2\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.Properties.Resources.resources
+C:\Users\franc\OneDrive\Escritorio\PPAI_CU17_GrupoYaNoNosFaltan2\PPAI_CU17_GrupoYaNoNosFaltan2\PPAI\PPAI_CU17_GrupoYaNoNosFaltan2\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.csproj.GenerateResource.cache
+C:\Users\franc\OneDrive\Escritorio\PPAI_CU17_GrupoYaNoNosFaltan2\PPAI_CU17_GrupoYaNoNosFaltan2\PPAI\PPAI_CU17_GrupoYaNoNosFaltan2\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Escritorio\PPAI_CU17_GrupoYaNoNosFaltan2\PPAI_CU17_GrupoYaNoNosFaltan2\PPAI\PPAI_CU17_GrupoYaNoNosFaltan2\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.exe
+C:\Users\franc\OneDrive\Escritorio\PPAI_CU17_GrupoYaNoNosFaltan2\PPAI_CU17_GrupoYaNoNosFaltan2\PPAI\PPAI_CU17_GrupoYaNoNosFaltan2\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.pdb
+C:\Users\franc\OneDrive\Escritorio\PPAI_CU17_GrupoYaNoNosFaltan2\PPAI_CU17_GrupoYaNoNosFaltan2\PPAI\PPAI_CU17_GrupoYaNoNosFaltan2\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.Interfaces.InterfazRegistrarLlamada.resources
+C:\Users\franc\OneDrive\Escritorio\PPAI_CU17_GrupoYaNoNosFaltan2\PPAI_Nuevo\PPAI\PPAI_CU17_GrupoYaNoNosFaltan2\bin\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.exe.config
+C:\Users\franc\OneDrive\Escritorio\PPAI_CU17_GrupoYaNoNosFaltan2\PPAI_Nuevo\PPAI\PPAI_CU17_GrupoYaNoNosFaltan2\bin\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.exe
+C:\Users\franc\OneDrive\Escritorio\PPAI_CU17_GrupoYaNoNosFaltan2\PPAI_Nuevo\PPAI\PPAI_CU17_GrupoYaNoNosFaltan2\bin\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.pdb
+C:\Users\franc\OneDrive\Escritorio\PPAI_CU17_GrupoYaNoNosFaltan2\PPAI_Nuevo\PPAI\PPAI_CU17_GrupoYaNoNosFaltan2\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Escritorio\PPAI_CU17_GrupoYaNoNosFaltan2\PPAI_Nuevo\PPAI\PPAI_CU17_GrupoYaNoNosFaltan2\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.csproj.SuggestedBindingRedirects.cache
+C:\Users\franc\OneDrive\Escritorio\PPAI_CU17_GrupoYaNoNosFaltan2\PPAI_Nuevo\PPAI\PPAI_CU17_GrupoYaNoNosFaltan2\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.NewFolder1.InterfazIVR.resources
+C:\Users\franc\OneDrive\Escritorio\PPAI_CU17_GrupoYaNoNosFaltan2\PPAI_Nuevo\PPAI\PPAI_CU17_GrupoYaNoNosFaltan2\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.Interfaces.InterfazRegistrarLlamada.resources
+C:\Users\franc\OneDrive\Escritorio\PPAI_CU17_GrupoYaNoNosFaltan2\PPAI_Nuevo\PPAI\PPAI_CU17_GrupoYaNoNosFaltan2\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.Properties.Resources.resources
+C:\Users\franc\OneDrive\Escritorio\PPAI_CU17_GrupoYaNoNosFaltan2\PPAI_Nuevo\PPAI\PPAI_CU17_GrupoYaNoNosFaltan2\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.csproj.GenerateResource.cache
+C:\Users\franc\OneDrive\Escritorio\PPAI_CU17_GrupoYaNoNosFaltan2\PPAI_Nuevo\PPAI\PPAI_CU17_GrupoYaNoNosFaltan2\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Escritorio\PPAI_CU17_GrupoYaNoNosFaltan2\PPAI_Nuevo\PPAI\PPAI_CU17_GrupoYaNoNosFaltan2\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.exe
+C:\Users\franc\OneDrive\Escritorio\PPAI_CU17_GrupoYaNoNosFaltan2\PPAI_Nuevo\PPAI\PPAI_CU17_GrupoYaNoNosFaltan2\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.pdb
+C:\Users\Usuario\Agus\Facu\implementacionCU-17\PPAI_CU17_GrupoYaNoNosFaltan2\bin\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.exe.config
+C:\Users\Usuario\Agus\Facu\implementacionCU-17\PPAI_CU17_GrupoYaNoNosFaltan2\bin\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.exe
+C:\Users\Usuario\Agus\Facu\implementacionCU-17\PPAI_CU17_GrupoYaNoNosFaltan2\bin\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.pdb
+C:\Users\Usuario\Agus\Facu\implementacionCU-17\PPAI_CU17_GrupoYaNoNosFaltan2\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.csproj.AssemblyReference.cache
+C:\Users\Usuario\Agus\Facu\implementacionCU-17\PPAI_CU17_GrupoYaNoNosFaltan2\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Agus\Facu\implementacionCU-17\PPAI_CU17_GrupoYaNoNosFaltan2\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.NewFolder1.InterfazIVR.resources
+C:\Users\Usuario\Agus\Facu\implementacionCU-17\PPAI_CU17_GrupoYaNoNosFaltan2\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.Interfaces.InterfazRegistrarLlamada.resources
+C:\Users\Usuario\Agus\Facu\implementacionCU-17\PPAI_CU17_GrupoYaNoNosFaltan2\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.Properties.Resources.resources
+C:\Users\Usuario\Agus\Facu\implementacionCU-17\PPAI_CU17_GrupoYaNoNosFaltan2\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.csproj.GenerateResource.cache
+C:\Users\Usuario\Agus\Facu\implementacionCU-17\PPAI_CU17_GrupoYaNoNosFaltan2\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Agus\Facu\implementacionCU-17\PPAI_CU17_GrupoYaNoNosFaltan2\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.exe
+C:\Users\Usuario\Agus\Facu\implementacionCU-17\PPAI_CU17_GrupoYaNoNosFaltan2\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.pdb
+<<<<<<< HEAD
+C:\Users\usuario\Desktop\PPAI\bin\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.exe.config
+C:\Users\usuario\Desktop\PPAI\bin\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.exe
+C:\Users\usuario\Desktop\PPAI\bin\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.pdb
+C:\Users\usuario\Desktop\PPAI\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\PPAI\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.csproj.SuggestedBindingRedirects.cache
+C:\Users\usuario\Desktop\PPAI\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.Interfaces.DescripcionLlamada.resources
+C:\Users\usuario\Desktop\PPAI\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.Interfaces.Informe.resources
+C:\Users\usuario\Desktop\PPAI\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.NewFolder1.InterfazIVR.resources
+C:\Users\usuario\Desktop\PPAI\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.Interfaces.InterfazRegistrarLlamada.resources
+C:\Users\usuario\Desktop\PPAI\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.Properties.Resources.resources
+C:\Users\usuario\Desktop\PPAI\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\PPAI\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\PPAI\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.exe
+C:\Users\usuario\Desktop\PPAI\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.pdb
+=======
+B:\UTN\Tercer año\Diseño de sistemas de información\PPAI\PPAI_CU17\PPAI_CU17\bin\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.exe.config
+B:\UTN\Tercer año\Diseño de sistemas de información\PPAI\PPAI_CU17\PPAI_CU17\bin\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.exe
+B:\UTN\Tercer año\Diseño de sistemas de información\PPAI\PPAI_CU17\PPAI_CU17\bin\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.pdb
+B:\UTN\Tercer año\Diseño de sistemas de información\PPAI\PPAI_CU17\PPAI_CU17\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.csproj.AssemblyReference.cache
+B:\UTN\Tercer año\Diseño de sistemas de información\PPAI\PPAI_CU17\PPAI_CU17\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.csproj.SuggestedBindingRedirects.cache
+B:\UTN\Tercer año\Diseño de sistemas de información\PPAI\PPAI_CU17\PPAI_CU17\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.NewFolder1.InterfazIVR.resources
+B:\UTN\Tercer año\Diseño de sistemas de información\PPAI\PPAI_CU17\PPAI_CU17\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.Interfaces.InterfazRegistrarLlamada.resources
+B:\UTN\Tercer año\Diseño de sistemas de información\PPAI\PPAI_CU17\PPAI_CU17\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.Properties.Resources.resources
+B:\UTN\Tercer año\Diseño de sistemas de información\PPAI\PPAI_CU17\PPAI_CU17\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.csproj.GenerateResource.cache
+B:\UTN\Tercer año\Diseño de sistemas de información\PPAI\PPAI_CU17\PPAI_CU17\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.csproj.CoreCompileInputs.cache
+B:\UTN\Tercer año\Diseño de sistemas de información\PPAI\PPAI_CU17\PPAI_CU17\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.exe
+B:\UTN\Tercer año\Diseño de sistemas de información\PPAI\PPAI_CU17\PPAI_CU17\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.pdb
+C:\Users\Usuario\Agus\Facu\implementacionCU-17\PPAI_CU17\bin\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.exe.config
+C:\Users\Usuario\Agus\Facu\implementacionCU-17\PPAI_CU17\bin\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.exe
+C:\Users\Usuario\Agus\Facu\implementacionCU-17\PPAI_CU17\bin\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.pdb
+C:\Users\Usuario\Agus\Facu\implementacionCU-17\PPAI_CU17\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.csproj.AssemblyReference.cache
+C:\Users\Usuario\Agus\Facu\implementacionCU-17\PPAI_CU17\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Agus\Facu\implementacionCU-17\PPAI_CU17\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.NewFolder1.InterfazIVR.resources
+C:\Users\Usuario\Agus\Facu\implementacionCU-17\PPAI_CU17\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.Interfaces.InterfazRegistrarLlamada.resources
+C:\Users\Usuario\Agus\Facu\implementacionCU-17\PPAI_CU17\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.Properties.Resources.resources
+C:\Users\Usuario\Agus\Facu\implementacionCU-17\PPAI_CU17\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.csproj.GenerateResource.cache
+C:\Users\Usuario\Agus\Facu\implementacionCU-17\PPAI_CU17\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Agus\Facu\implementacionCU-17\PPAI_CU17\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.exe
+C:\Users\Usuario\Agus\Facu\implementacionCU-17\PPAI_CU17\obj\Debug\PPAI_CU17_GrupoYaNoNosFaltan2.pdb
+>>>>>>> 4d163335dd4b02fe3d05d56c9fafcd79d1b188e6
