@@ -45,11 +45,12 @@ namespace PPAI_CU17_GrupoYaNoNosFaltan2.Gestor
 
             Validacion validacion2 = new Validacion("Audio", "Fecha Nacimiento: ", 1, tipoInfoFechaNac);
 
-            Validacion validacion3 = new Validacion("Audio", "Codigo postal", 1, tipoInfoCodPostal);
+            Validacion validacion3 = new Validacion("Audio", "Código postal", 1, tipoInfoCodPostal);
 
             List<Validacion> validaciones = new List<Validacion>();
             validaciones.Add(validacion1);
             validaciones.Add(validacion2);
+            
 
             List<InformacionCliente> informacionClientes = new List<InformacionCliente>();
 
@@ -60,6 +61,7 @@ namespace PPAI_CU17_GrupoYaNoNosFaltan2.Gestor
             informacionClientes.Add(infoClienteFechaNac);
 
             InformacionCliente infoClienteCodPostal = new InformacionCliente("5000", validacion3, tipoInfoCodPostal);
+            informacionClientes.Add(infoClienteCodPostal);
 
             SubOpcionLlamada subOpcion = new SubOpcionLlamada("Hablar con operador", 1, validaciones);
             List<SubOpcionLlamada> listaSubOpciones = new List<SubOpcionLlamada>();
@@ -91,13 +93,7 @@ namespace PPAI_CU17_GrupoYaNoNosFaltan2.Gestor
             interfaz.MostrarDNI(cliente.dni);
             interfaz.MostrarCategoria(categoria.nroOrden);
             interfaz.MostrarOpcion(opcionLlamada1.nroOrden);
-            interfaz.MostrarSubopcion(subOpcion.nroOrden);
-            Console.WriteLine(informacionClientes.Count());
-            
-            foreach (InformacionCliente infoCliente in informacionClientes)
-            {
-                Console.WriteLine(infoCliente.datoAValidar);
-            }
+            interfaz.MostrarSubopcion(subOpcion.nroOrden);       
             return llamada;
         }
        

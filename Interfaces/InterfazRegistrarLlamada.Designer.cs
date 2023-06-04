@@ -195,6 +195,7 @@
             this.button3.TabIndex = 49;
             this.button3.Text = "Verificar validacion";
             this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click_1);
             // 
             // label8
             // 
@@ -213,7 +214,6 @@
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(121, 21);
             this.comboBox1.TabIndex = 50;
-            
             // 
             // comboBox2
             // 

@@ -25,8 +25,8 @@ namespace PPAI_CU17_GrupoYaNoNosFaltan2.Interfaces
         {
             InitializeComponent();
             Llamada llamada = llamada1;
-            button1.Tag = llamada;
-            button3.Tag = llamada;
+            button1.Tag = llamada1;
+            button3.Tag = llamada1;
             gestorRegistrarRespuesta = gestor;
         }
 
@@ -62,25 +62,21 @@ namespace PPAI_CU17_GrupoYaNoNosFaltan2.Interfaces
             label7.Text = val2;
             string fechaHora = datos[6];
             label8.Text = fechaHora;
+            string correcta1 = datos[7];
+            string correcta2 = datos[8];
 
+            
 
-            DateTime fecha1 = new DateTime(2023, 6, 1);
-            DateTime fecha2 = new DateTime(2023, 6, 15);
-            DateTime fecha3 = new DateTime(2023, 6, 30);
-
-            comboBox1.Items.Add(fecha1);
-            comboBox1.Items.Add(fecha2);
-            comboBox1.Items.Add(fecha3);
+            comboBox1.Items.Add(correcta2);
+            comboBox1.Items.Add("Incorrecta");
 
             comboBox1.SelectedIndex = 0; //
 
-            string cantHijos1 = "4";
-            string cantHijos2 = "2";
-            string cantHijos3 = "3";
+            
 
-            comboBox2.Items.Add(cantHijos1);
-            comboBox2.Items.Add(cantHijos2);
-            comboBox2.Items.Add(cantHijos3);
+            comboBox2.Items.Add(correcta1);
+            comboBox2.Items.Add("Incorrecta");
+
 
             comboBox2.SelectedIndex = 0; //
 
@@ -129,14 +125,14 @@ namespace PPAI_CU17_GrupoYaNoNosFaltan2.Interfaces
 
         }
 
-        
-        
+
+
         private void button1_Click(object sender, EventArgs e)
         {
-            string validacion = label6.Text;
+            string validacion = label7.Text;
             string respuestaCB1 = comboBox1.SelectedItem.ToString();
-            Llamada llamada = (Llamada)button1.Tag;
-            bool bandera = gestorRegistrarRespuesta.tomarOpValidacion(respuestaCB1, validacion, llamada);
+            Llamada llamada1 = (Llamada)button1.Tag;
+            bool bandera = gestorRegistrarRespuesta.tomarOpValidacion(respuestaCB1, validacion, llamada1);
             if (bandera == true)
             {
                 MessageBox.Show("Verificación correcta");
@@ -147,15 +143,16 @@ namespace PPAI_CU17_GrupoYaNoNosFaltan2.Interfaces
             }
         }
 
-        private void button3_Click(object sender, EventArgs e)
+        private void button3_Click_1(object sender, EventArgs e)
         {
-            string validacion = label7.Text;
+            string validacion = label6.Text;
             string respuestaCB2 = comboBox2.SelectedItem.ToString();
             Llamada llamada = (Llamada)button3.Tag;
             bool bandera = gestorRegistrarRespuesta.tomarOpValidacion(respuestaCB2, validacion, llamada);
             if (bandera)
             {
                 MessageBox.Show("Verificación correcta");
+                bool banderon = true;
             }
             else
             {

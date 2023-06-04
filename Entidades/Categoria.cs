@@ -28,7 +28,7 @@ namespace PPAI_CU17_GrupoYaNoNosFaltan2.Entidades
             this.nroOrden = nroOrden;
 
             // Inicializar relación
-            this.opciones = new List<OpcionLlamada>();
+            this.opciones = opciones;
             
         }
 

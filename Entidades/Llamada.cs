@@ -38,7 +38,7 @@ namespace PPAI_CU17_GrupoYaNoNosFaltan2.Entidades
             this.cliente = cliente;
             this.subOpcionLlamada = subOpcionLlamada;
             this.opcionLlamada = opcionLlamada;
-            this.cambioDeEstado = new List<CambioEstado>();
+            this.cambioDeEstado = cambioDeEstado; // Cambiado por el new
             this.categoria = categoria;
         }
         //Metodos de Seteo

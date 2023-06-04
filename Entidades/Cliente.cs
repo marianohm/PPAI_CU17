@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -14,9 +15,9 @@ namespace PPAI_CU17_GrupoYaNoNosFaltan2.Entidades
         public string numeroCelular { get; set; }
 
         // Relación
-        public List<InformacionCliente> informacionCliente;
+        public List<InformacionCliente> informacionCliente { get; set; }
 
-        
+
 
 
         // Constructor
@@ -28,7 +29,7 @@ namespace PPAI_CU17_GrupoYaNoNosFaltan2.Entidades
             this.numeroCelular = numeroCelular;
 
             // Inicializar relación
-            this.informacionCliente = new List<InformacionCliente>();
+            this.informacionCliente = informacionCliente; // Cambiado por el new
         }
 
 
@@ -69,15 +70,14 @@ namespace PPAI_CU17_GrupoYaNoNosFaltan2.Entidades
         public bool esInformacionCorrecta(string info, string validacion, Llamada llamada)
         {
             bool bandera = false;
-            Console.WriteLine(llamada.cliente.informacionCliente.Count);
-            foreach (InformacionCliente infoCliente in llamada.cliente.informacionCliente)
+            foreach (InformacionCliente informacionCliente in llamada.cliente.informacionCliente)
             {
-                Console.WriteLine(infoCliente.datoAValidar);
-                /*if (informacionCliente.esValidacion(validacion, llamada))
+                if (informacionCliente.esValidacion(validacion) == true)
                 {   
-                    if(informacionCliente.esInformacionCorrecta(info, llamada))
+                    if(informacionCliente.esInformacionCorrecta(info))
                     {
                         bandera = true;
+                        break;
                     }
                     else
                     {
@@ -87,9 +87,27 @@ namespace PPAI_CU17_GrupoYaNoNosFaltan2.Entidades
                 else
                 {
                     
-                }*/
+                }
             }
             return bandera;
+        }
+
+        public string buscarInfoCorrecta(Llamada llamada, string validacion)
+        {
+            string correcta = "No hay correcta";
+            foreach (InformacionCliente informacionCliente in llamada.cliente.informacionCliente)
+            {
+                if (informacionCliente.esValidacion(validacion) == true)
+                {
+                    correcta = informacionCliente.getdatoAValidar();
+                    break;
+                }
+                else 
+                {
+                    correcta = "No hay correcta";
+                }
+            }
+            return correcta;
         }
         
     } 

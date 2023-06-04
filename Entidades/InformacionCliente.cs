@@ -16,7 +16,7 @@ namespace PPAI_CU17_GrupoYaNoNosFaltan2.Entidades
         public TipoInformacion tipoInformacion { get; set; }
 
         // Constructor
-        public InformacionCliente(string datoAValidar, Validacion Validacion, TipoInformacion TipoInformacion)
+        public InformacionCliente(string datoAValidar, Validacion validacion, TipoInformacion TipoInformacion)
         {
             // Inicializar atributos
             this.datoAValidar = datoAValidar;
@@ -41,19 +41,18 @@ namespace PPAI_CU17_GrupoYaNoNosFaltan2.Entidades
 
         // Métodos
        
-        public bool esValidacion(string val, Llamada llamada)
+        public bool esValidacion(string val)
         {
             bool bandera = false;
-            Console.WriteLine(val);
-            Console.WriteLine(llamada.opcionLlamada.validacion[0].nombre);
-            if (val == this.validacion.nombre)
+            string nombreVal = this.validacion.nombre;
+            if (val == nombreVal)
             {
                 bandera = true;
             }
             return bandera;
         }   
 
-        public bool esInformacionCorrecta(string info, Llamada llamada)
+        public bool esInformacionCorrecta(string info)
         {
             bool bandera = false;
             if(info == this.datoAValidar)
@@ -63,7 +62,7 @@ namespace PPAI_CU17_GrupoYaNoNosFaltan2.Entidades
             return bandera;
         }
        
-       
+        
     }
 }   
 

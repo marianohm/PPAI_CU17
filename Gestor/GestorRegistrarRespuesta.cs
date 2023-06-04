@@ -113,7 +113,6 @@ namespace PPAI_CU17_GrupoYaNoNosFaltan2.Gestor
 
             string nombreCliente = llamada.getCliente(); // Mostrar
             datos.Add(nombreCliente);
-            Console.WriteLine(nombreCliente);
 ;
 
             ((int, string), string) tupla = llamada.categoria.getDescripcionCategoriaYOpcion(llamada.opcionLlamada, llamada.subOpcionLlamada);
@@ -124,28 +123,35 @@ namespace PPAI_CU17_GrupoYaNoNosFaltan2.Gestor
             datos.Add(nombreOpcion);    
             int nroOrden = tupla.Item1.Item1; // Mostrar
             datos.Add(nroOrden.ToString());
- 
+
 
             List<string> mensajes = llamada.categoria.getValidaciones(llamada.opcionLlamada, llamada.subOpcionLlamada, llamada.subOpcionLlamada.validaciones); // Mostrar
-            int tamaño = mensajes.Count;
-            Console.WriteLine(tamaño);
 
             foreach (string mensaje in mensajes) datos.Add(mensaje);
 
             string fechaHora = obtenerFechaHoraActual();
             datos.Add(fechaHora);
 
-
+            foreach (string mensaje in mensajes)
+            {
+                string correcta = buscarInfoCorrecta(llamada, mensaje);
+                datos.Add(correcta);
+            }
+          
             return datos;
         }
 
-        public bool tomarOpValidacion(string respuesta, string validacion,Llamada llamada)
+        public bool tomarOpValidacion(string respuesta, string validacion, Llamada llamada)
         {
             bool bandera = llamada.validarInformacionCliente(respuesta, validacion, llamada);
             return bandera;
         }
-        
-        
+
+        public string buscarInfoCorrecta(Llamada llamada, string validacion)
+        {
+            string correcta = llamada.cliente.buscarInfoCorrecta(llamada, validacion);
+            return correcta;
+        }
     }
 }
 
